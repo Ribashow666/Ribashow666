@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Ribas&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Ribas&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Turning+ideas+into+beautiful+interfaces;React+%7C+JavaScript+%7C+Python;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Frontend+que+tamb%C3%A9m+domina+o+Backend;React+%7C+Node.js+%7C+Python+%7C+AWS;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,12 +14,13 @@
 
 ```javascript
 const ribas = {
-  role:       "Frontend Developer",
+  role:       "Full Stack Developer",
+  education:  "Bacharel em Sistemas de Informação 🎓",
   location:   "Brasil 🇧🇷",
-  focus:      ["UI/UX", "Web Performance", "Clean Code"],
-  currentlyStudying: ["React.js", "Node.js", "JavaScript avançado"],
-  goal:       "Criar interfaces que as pessoas amam usar",
-  funFact:    "Acredito que bom código é como boa arte — simples e impactante"
+  focus:      ["UI/UX", "Web Performance", "Clean Code", "APIs REST"],
+  stack:      ["React.js", "Node.js", "Python", "JavaScript", "AWS"],
+  goal:       "Construir produtos completos — do design ao deploy",
+  funFact:    "Bom código é como boa arte — simples, elegante e impactante"
 };
 ```
 
@@ -29,14 +30,18 @@ const ribas = {
 
 <div align="center">
 
-### ⚡ Main Skills
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=6A0DAD)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=6A0DAD)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff)
 
 ### 🗄️ Database & Cloud
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=6A0DAD)
@@ -47,10 +52,6 @@ const ribas = {
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6)
-
-### 📚 Estudando agora
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
 
 </div>
 
@@ -73,17 +74,12 @@ const ribas = {
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ribashow666&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15&border_color=6A0DAD" />
-</div>
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/ailton-guilherme/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
   <a href="https://www.instagram.com/ag_ribas/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=6A0DAD" />
   </a>
