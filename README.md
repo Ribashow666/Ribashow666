@@ -15,7 +15,8 @@
 ```javascript
 const ribas = {
   role:       "Full Stack Developer",
-  education:  "Bacharel em Sistemas de Informação 🎓",
+  education:  "Bacharel em Sistemas de Informação 🎓 && Estudante em Tecnólogo em Sistemas para Internet",
+  university: "UNINASSAU && Universidade Católica de Pernambuco",
   location:   "Brasil 🇧🇷",
   focus:      ["UI/UX", "Web Performance", "Clean Code", "APIs REST"],
   stack:      ["React.js", "Node.js", "Python", "JavaScript", "AWS"],
