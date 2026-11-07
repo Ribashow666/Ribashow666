@@ -23,7 +23,7 @@
 
 ```javascript
 const ailton = {
-  cargo:       "Consultor ServiceNow @ EDX — Extreme Digital Solutions",
+  cargo:       "Consultor ServiceNow @ EDX — Extreme Digital Experience",
   atuação:     "Sustentação e evolução da plataforma no setor de energia ⚡",
   plataforma:  ["ITSM", "Service Catalog", "Flow Designer"],
   formação:    "Bacharel em Sistemas de Informação — UNINASSAU (2025) 🎓",
