@@ -94,10 +94,10 @@ const ailton = {
 
 <div align="center">
   <a href="https://github.com/Ribashow666/bolao-copa-2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ribashow666&repo=bolao-copa-2026&bg_color=0D1117&title_color=C77DFF&text_color=C9D1D9&icon_color=9D4EDD&border_color=6A0DAD" />
+    <img src="https://socialify.git.ci/Ribashow666/bolao-copa-2026/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" width="48%" />
   </a>
   <a href="https://github.com/Ribashow666/lesson-planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ribashow666&repo=lesson-planner&bg_color=0D1117&title_color=C77DFF&text_color=C9D1D9&icon_color=9D4EDD&border_color=6A0DAD" />
+    <img src="https://socialify.git.ci/Ribashow666/lesson-planner/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" width="48%" />
   </a>
 </div>
 
@@ -117,16 +117,21 @@ const ailton = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ribashow666&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0D1117&title_color=C77DFF&text_color=C9D1D9&icon_color=9D4EDD&border_color=6A0DAD"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribashow666&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=C77DFF&text_color=C9D1D9&border_color=6A0DAD"/>
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="49%" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ribashow666&locale=pt_BR&background=0D1117&border=6A0DAD&stroke=30363D&ring=9D4EDD&fire=C77DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C77DFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ribashow666&bg_color=0D1117&color=C9D1D9&line=9D4EDD&point=C77DFF&area=true&area_color=6A0DAD&hide_border=false&border_color=6A0DAD&title_color=C77DFF" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ---
